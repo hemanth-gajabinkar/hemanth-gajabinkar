@@ -53,7 +53,6 @@ I turn raw data into clear, actionable insights using dashboards, queries, and c
 
 - Bachelor of Technology in Electrical & Electronics Engineering — Kamala Institute of Technology and Science (2022–2025)
 - Data Analyst Internship — AiVariant (Apr–Jul 2026)
-- Cyber Security Virtual Internship — EduSkills Foundation
 
 ---
 
