@@ -42,17 +42,25 @@ I turn raw data into clear, actionable insights using dashboards, queries, and c
 
 ---
 
+### 🏅 Certifications
+
+- **NASSCOM FutureSkills Prime** — Certificate Program in Data Analyst (**Gold**, 92%) — Jul 2026
+  Aligned to IT-ITeS Sector Skills Council competency standards, Govt. of India (Ministry of Electronics & IT)
+
+---
+
 ### 🎓 Background
 
-- Bachelor of Technology in Electrical & Electronics Engineering — Kamala Institute of Technology and Science (2022–2025)
+- B.E. in Electrical & Electronics Engineering — Kamala Institute of Technology and Science (2022–2025)
 - Data Analyst Internship — AiVariant (Apr–Jul 2026)
+- Cyber Security Virtual Internship — EduSkills Foundation
 
 ---
 
 ### 📫 Let's Connect
 
-- LinkedIn: https://www.linkedin.com/in/hemanth-gajabinkar-533b02336?utm_source=share_via&utm_content=profile&utm_medium=member_android
-- Email: [gajabinkarhemanth22@gmail.com]
+- LinkedIn: [add your link]
+- Email: [add your email]
 
 ---
 
